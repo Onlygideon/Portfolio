@@ -1,0 +1,64 @@
+.contact {
+    background: #15202B;
+    background: linear-gradient(90deg, rgb(30, 22, 46) 60%, rgb(30, 22, 44)80%);
+    border-bottom: 1px solid #141313;
+    overflow: auto;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.contactForm {
+    display: block;
+    max-width: 600px;
+    margin: 0 auto;
+    border: 1px solid #6c2399;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #141313;
+    margin-bottom: 50px;
+}
+
+.contactForm label{
+    line-height: 2.7em;
+    color: white;
+}
+
+.contactForm textarea{
+    min-height: 100px;
+    font-size: 14px;
+}
+
+.inputField{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #331844;
+    border-radius: 5px;
+    border: 1px solid #141313;
+    font-size: 14px;
+    color: #fff;
+}
+
+.submitBtn{
+    margin-top: 10px;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+    background-color: #6c3291;
+    border: none;
+    cursor: pointer;
+}
+
+
+@media screen and (max-width: 798px){
+    .contactForm {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 498px){
+    .contactForm {
+        width: 80%;
+    }
+}
