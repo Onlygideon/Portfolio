@@ -6,7 +6,7 @@ import Projects from './components/Projects/Projects';
 import Contact from './components/Contact/Contact'
 import Frontend from './components/Projects/Frontend'
 import Backend from './components/Projects/Backend'
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import Design from './components/Projects/Design';
 
 

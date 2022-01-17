@@ -7,7 +7,6 @@ import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { useEffect } from 'react';
 import {useAnimation} from 'framer-motion';
-import { Link } from 'react-router-dom';
 
 
 
@@ -81,15 +80,15 @@ const Projects = () => {
                 <motion.div className={classes.project}
                     animate={anime}         
                     >
-                    <a href="/design-projects">
+                    <a href="/Portfolio#/design-projects">
                    {moreProjects(uiDesignThumbnail, uiTitle)}
                     </a>
 
-                   <a href="/frontend-projects">
+                   <a href="/Portfolio#/frontend-projects">
                    {moreProjects(frontendThumbnail, frontendTitle)}
                     </a>
 
-                    <a href="/backend-projects">
+                    <a href="/Portfolio#/backend-projects">
                    {moreProjects(backendThumbnail, backendTitle)}
                     </a>
 
