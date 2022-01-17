@@ -15,7 +15,7 @@ import Design from './components/Projects/Design';
 const App = () => {
   return (
     <div className="App">
-      <Router basename='/'>
+      <Router>
         <Switch>
           <Route exact path="/">
             < Home />
