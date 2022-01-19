@@ -1,6 +1,7 @@
 import classes from './Projects.module.css'
 import PageHeader from '../PageHeader/PageHeader';
-import SmartBiteThumbnail from './../images/Smart Bite.png';
+import SmartBiteThumbnail from './../images/Smart Bite.jpg';
+import ElegantEssenceThumbnail from './../images/ElegantEssence.jpg';
 
 
 
@@ -23,13 +24,15 @@ const myProjects = (thumbnail, description, title, link) => {
 }
 
 
-const smartBiteDescription = `This is a 6 pages UI Design for a Food Ordering Mobile App. I used Figma for this project.`;
+const smartBiteDescription = `This is a 6 pages UI Design for a Food Ordering Mobile App.`;
+const ElegantEssenceDescription = `This is a Landing Page UI Design for an online jewelry store website.`;
 
 
 const smartBiteTitle = `Smart Bite`;
-
+const ElegantEssenceTitle = `Elegant Essence`;
 
 const smartBiteLink = "https://www.behance.net/gallery/135188277/Smart-Bite";
+const ElegantEssenceLink = "https://www.behance.net/gallery/135366705/Elegant-Essence"
 
 
 
@@ -54,6 +57,7 @@ const Design = () => {
                 <div className={classes.project}>
 
                     {myProjects(SmartBiteThumbnail, smartBiteDescription, smartBiteTitle, smartBiteLink)}
+                    {myProjects(ElegantEssenceThumbnail, ElegantEssenceDescription, ElegantEssenceTitle, ElegantEssenceLink)}
                     
                 </div>
             </div>
