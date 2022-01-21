@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.14ff54aa.chunk.css",
-    "main.js": "/Portfolio/static/js/main.37cc415d.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.37cc415d.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.a5c661d0.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.a5c661d0.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.17848bed.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.17848bed.js.map",
     "static/js/2.9b82cdd2.chunk.js": "/Portfolio/static/js/2.9b82cdd2.chunk.js",
@@ -12,6 +12,7 @@
     "static/js/2.9b82cdd2.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.9b82cdd2.chunk.js.LICENSE.txt",
     "static/media/ElegantEssence.00c9c154.jpg": "/Portfolio/static/media/ElegantEssence.00c9c154.jpg",
     "static/media/GideonSTEPHENresume.1bebc82b.pdf": "/Portfolio/static/media/GideonSTEPHENresume.1bebc82b.pdf",
+    "static/media/Home & Hearth Realty.7e4efe68.jpg": "/Portfolio/static/media/Home & Hearth Realty.7e4efe68.jpg",
     "static/media/Smart Bite.e082397d.jpg": "/Portfolio/static/media/Smart Bite.e082397d.jpg",
     "static/media/a-sync.14cce711.jpg": "/Portfolio/static/media/a-sync.14cce711.jpg",
     "static/media/booklify.068dbe6f.PNG": "/Portfolio/static/media/booklify.068dbe6f.PNG",
@@ -37,6 +38,6 @@
     "static/js/runtime-main.17848bed.js",
     "static/js/2.9b82cdd2.chunk.js",
     "static/css/main.14ff54aa.chunk.css",
-    "static/js/main.37cc415d.chunk.js"
+    "static/js/main.a5c661d0.chunk.js"
   ]
 }
