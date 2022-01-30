@@ -2,7 +2,7 @@ import classes from './Projects.module.css'
 import PageHeader from '../PageHeader/PageHeader';
 import backendThumbnail from './../images/oasis.PNG';
 import frontendThumbnail from './../images/phoeniix.jpg';
-import uiDesignThumbnail from './../images/Home & Hearth Realty.jpg';
+import uiDesignThumbnail from './../images/EyeHut.jpg';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { useEffect } from 'react';

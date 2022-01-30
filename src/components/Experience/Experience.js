@@ -34,7 +34,7 @@ const hngDescription = `Front-end Web Developer`;
 const zuriDescription = `Back-end Web Developer`;
 
 
-const hngDate = `July 2021 - December 2021`;
+const hngDate = `July 2021 - Present`;
 const zuriDate = `March 2021 - September 2021`;
 
 
