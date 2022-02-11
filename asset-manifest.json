@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.a47b842f.chunk.css",
+    "main.css": "/Portfolio/static/css/main.78c28841.chunk.css",
     "main.js": "/Portfolio/static/js/main.82fbd02c.chunk.js",
     "main.js.map": "/Portfolio/static/js/main.82fbd02c.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.17848bed.js",
@@ -8,7 +8,7 @@
     "static/js/2.0b851382.chunk.js": "/Portfolio/static/js/2.0b851382.chunk.js",
     "static/js/2.0b851382.chunk.js.map": "/Portfolio/static/js/2.0b851382.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.a47b842f.chunk.css.map": "/Portfolio/static/css/main.a47b842f.chunk.css.map",
+    "static/css/main.78c28841.chunk.css.map": "/Portfolio/static/css/main.78c28841.chunk.css.map",
     "static/js/2.0b851382.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.0b851382.chunk.js.LICENSE.txt",
     "static/media/ElegantEssence.00c9c154.jpg": "/Portfolio/static/media/ElegantEssence.00c9c154.jpg",
     "static/media/EyeHut Login Page.b95acf9e.jpg": "/Portfolio/static/media/EyeHut Login Page.b95acf9e.jpg",
@@ -39,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.17848bed.js",
     "static/js/2.0b851382.chunk.js",
-    "static/css/main.a47b842f.chunk.css",
+    "static/css/main.78c28841.chunk.css",
     "static/js/main.82fbd02c.chunk.js"
   ]
 }
