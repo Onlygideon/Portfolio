@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.14ff54aa.chunk.css",
-    "main.js": "/Portfolio/static/js/main.7a1b6a6e.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.7a1b6a6e.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.a47b842f.chunk.css",
+    "main.js": "/Portfolio/static/js/main.82fbd02c.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.82fbd02c.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.17848bed.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.17848bed.js.map",
-    "static/js/2.9b82cdd2.chunk.js": "/Portfolio/static/js/2.9b82cdd2.chunk.js",
-    "static/js/2.9b82cdd2.chunk.js.map": "/Portfolio/static/js/2.9b82cdd2.chunk.js.map",
+    "static/js/2.0b851382.chunk.js": "/Portfolio/static/js/2.0b851382.chunk.js",
+    "static/js/2.0b851382.chunk.js.map": "/Portfolio/static/js/2.0b851382.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.14ff54aa.chunk.css.map": "/Portfolio/static/css/main.14ff54aa.chunk.css.map",
-    "static/js/2.9b82cdd2.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.9b82cdd2.chunk.js.LICENSE.txt",
+    "static/css/main.a47b842f.chunk.css.map": "/Portfolio/static/css/main.a47b842f.chunk.css.map",
+    "static/js/2.0b851382.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.0b851382.chunk.js.LICENSE.txt",
     "static/media/ElegantEssence.00c9c154.jpg": "/Portfolio/static/media/ElegantEssence.00c9c154.jpg",
     "static/media/EyeHut Login Page.b95acf9e.jpg": "/Portfolio/static/media/EyeHut Login Page.b95acf9e.jpg",
     "static/media/EyeHut.fdb29c48.jpg": "/Portfolio/static/media/EyeHut.fdb29c48.jpg",
@@ -17,6 +17,7 @@
     "static/media/Home & Hearth Realty.7e4efe68.jpg": "/Portfolio/static/media/Home & Hearth Realty.7e4efe68.jpg",
     "static/media/Smart Bite.e082397d.jpg": "/Portfolio/static/media/Smart Bite.e082397d.jpg",
     "static/media/a-sync.14cce711.jpg": "/Portfolio/static/media/a-sync.14cce711.jpg",
+    "static/media/agromart.9d320fa2.jpg": "/Portfolio/static/media/agromart.9d320fa2.jpg",
     "static/media/booklify.068dbe6f.PNG": "/Portfolio/static/media/booklify.068dbe6f.PNG",
     "static/media/code-development-1.9fccaa90.svg": "/Portfolio/static/media/code-development-1.9fccaa90.svg",
     "static/media/code-thinking.91dbc0c7.svg": "/Portfolio/static/media/code-thinking.91dbc0c7.svg",
@@ -33,13 +34,12 @@
     "static/media/sigma.afa811c6.jpg": "/Portfolio/static/media/sigma.afa811c6.jpg",
     "static/media/swiftly.ed980c5c.jpg": "/Portfolio/static/media/swiftly.ed980c5c.jpg",
     "static/media/weathergenie.d20b2e9b.jpg": "/Portfolio/static/media/weathergenie.d20b2e9b.jpg",
-    "static/media/welcome.b34ba842.svg": "/Portfolio/static/media/welcome.b34ba842.svg",
-    "static/media/zuri.e3fc8e55.jpeg": "/Portfolio/static/media/zuri.e3fc8e55.jpeg"
+    "static/media/welcome.b34ba842.svg": "/Portfolio/static/media/welcome.b34ba842.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.17848bed.js",
-    "static/js/2.9b82cdd2.chunk.js",
-    "static/css/main.14ff54aa.chunk.css",
-    "static/js/main.7a1b6a6e.chunk.js"
+    "static/js/2.0b851382.chunk.js",
+    "static/css/main.a47b842f.chunk.css",
+    "static/js/main.82fbd02c.chunk.js"
   ]
 }
