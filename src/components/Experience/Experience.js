@@ -3,6 +3,7 @@ import PageHeader from "../PageHeader/PageHeader";
 import hngThumbnail from "./../images/hng.jpg";
 import zuriThumbnail from "./../images/zuri.jpg";
 import onamydeThumbnail from "./../images/onamyde.png";
+import mustardThumbnail from "./../images/mustard.png";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import { useEffect } from "react";
@@ -24,15 +25,18 @@ const myExperience = (thumbnail, description, date, title) => {
   );
 };
 
+const mustardTitle = `Mustard Stone Technologies | Remote`;
 const onamydeTitle = `Onamyde Nigeria Limited | Remote`;
 const hngTitle = `HNG | Remote`;
 const zuriTitle = `Zuri Team | Remote`;
 
-const onamydeDescription = `Front-end Web Developer`;
+const mustardDescription = `Web Developer`;
+const onamydeDescription = `UI Designer & Front-end Web Developer`;
 const hngDescription = `Front-end Web Developer`;
 const zuriDescription = `Back-end Web Developer`;
 
-const onamydeDate = `August 2020 - Present`;
+const mustardDate = `February 2022 - Present`;
+const onamydeDate = `August 2020 - January 2022`;
 const hngDate = `July 2021 - November 2021`;
 const zuriDate = `March 2021 - September 2021`;
 
@@ -67,6 +71,13 @@ const Experience = () => {
 
       <div ref={ref} className={classes.ExperienceContent}>
         <motion.div className={classes.experiences} animate={anime}>
+          {myExperience(
+            mustardThumbnail,
+            mustardDescription,
+            mustardDate,
+            mustardTitle
+          )}
+
           {myExperience(
             onamydeThumbnail,
             onamydeDescription,
