@@ -12,12 +12,12 @@ const listTitleStyle = { fontWeight: 900, color: '#9B1FE8', marginBottom: '4px'}
 
 const uiDesignSkills = <ul>
     <li style={ listTitleStyle }>UI Design</li>
-    <li>Figma - Pen Sketch</li>
+    <li>Figma - Gimp</li>
 </ul>
 
 const backendSkills = <ul>
     <li style={ listTitleStyle }>BACKEND</li>
-    <li>Node.js - Express.js - MongoDB   Firebase</li>
+    <li>Node.js - Express.js - MongoDB - MySQL  Firebase</li>
 </ul>
 
 const frontendSkills = <ul>

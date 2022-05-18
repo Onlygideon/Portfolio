@@ -31,7 +31,7 @@ const hngTitle = `HNG | Remote`;
 const zuriTitle = `Zuri Team | Remote`;
 
 const mustardDescription = `Web Developer`;
-const onamydeDescription = `UI Designer & Front-end Web Developer`;
+const onamydeDescription = `UI Designer`;
 const hngDescription = `Front-end Web Developer`;
 const zuriDescription = `Back-end Web Developer`;
 
