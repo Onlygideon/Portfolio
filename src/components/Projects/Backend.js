@@ -33,7 +33,7 @@ const oasisTitle = `Oasis API`;
 
 
 const booklifyLink = "https://onlygideon.github.io/booklify/";
-const oasisLink = `https://rapidapi.com/stephengideon22@gmail.com/api/oasis/`;
+const oasisLink = `https://rapidapi.com/stephengideon22-3E2owVQ7ZTn/api/oasis/`;
 
 
 

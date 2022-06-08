@@ -17,7 +17,9 @@ const uiDesignSkills = <ul>
 
 const backendSkills = <ul>
     <li style={ listTitleStyle }>BACKEND</li>
-    <li>Node.js - Express.js - MongoDB - MySQL  Firebase</li>
+    <li>TypeScript - Express.js - Node.js  MongoDB</li>
+    <li>MySQL - Sequelize - Mongoose</li>
+    <li>Firebase</li>
 </ul>
 
 const frontendSkills = <ul>
