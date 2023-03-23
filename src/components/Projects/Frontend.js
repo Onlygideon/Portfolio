@@ -42,7 +42,7 @@ const sigmaDescription = `Responsive landing page for an Online fashion clothing
 const weatherGenieDescription = `See the weather at any location with this web weather app.`;
 const fluxyDescription = `Responsive and well designed movie streaming platform UI.`;
 const lyricsLabDescription = `Search for any song lyrics with this web music lyrics finder app.`;
-const edmVoltDescription = `Electronic Dance Music record label website with the goal of helping EDM artistes.`;
+const edmVoltDescription = `Electronic Dance Music record label website, built using html, css and javascript.`;
 const portfolioDescription = `This is my portfolio website, built using ReactJs, Framer motion, and EmailJs.`;
 const agromartDescription = `This is a horticultural organization website UI, built using ReactJs, TypeScript and Styled-components mainly.`;
 
@@ -95,6 +95,15 @@ const Frontend = () => {
           )}
 
           {myProjects(
+            swiftlyThumbnail,
+            swiftlyDescription,
+            swiftlyTitle,
+            swiftlyLink
+          )}
+
+          {myProjects(sigmaThumbnail, sigmaDescription, sigmaTitle, sigmaLink)}
+
+          {myProjects(
             elixirThumbnail,
             elixirDescription,
             elixirTitle,
@@ -108,41 +117,32 @@ const Frontend = () => {
             phoenixLink
           )}
 
-          {myProjects(
-            swiftlyThumbnail,
-            swiftlyDescription,
-            swiftlyTitle,
-            swiftlyLink
-          )}
-
-          {myProjects(
+          {/* {myProjects(
             CryptoThumbnail,
             cryptoDescription,
             cryptoTitle,
             cryptoLink
-          )}
+          )} */}
 
-          {myProjects(grimThumbnail, grimDescription, grimTitle, grimLink)}
+          {/* {myProjects(grimThumbnail, grimDescription, grimTitle, grimLink)} */}
 
-          {myProjects(syncThumbnail, syncDescription, syncTitle, syncLink)}
+          {/* {myProjects(syncThumbnail, syncDescription, syncTitle, syncLink)} */}
 
-          {myProjects(
+          {/* {myProjects(
             portfolioThumbnail,
             portfolioDescription,
             portfolioTitle,
             portLink
-          )}
+          )} */}
 
-          {myProjects(sigmaThumbnail, sigmaDescription, sigmaTitle, sigmaLink)}
+          {/* {myProjects(fluxyThumbnail, fluxyDescription, fluxyTitle, fluxyLink)} */}
 
-          {myProjects(fluxyThumbnail, fluxyDescription, fluxyTitle, fluxyLink)}
-
-          {myProjects(
+          {/* {myProjects(
             lyricslabThumbnail,
             lyricsLabDescription,
             lyricsLabTitle,
             lyricsLabLink
-          )}
+          )} */}
 
           {myProjects(
             edmvoltThumbnail,
@@ -151,12 +151,12 @@ const Frontend = () => {
             edmVoltLink
           )}
 
-          {myProjects(
+          {/* {myProjects(
             weathergenieThumbnail,
             weatherGenieDescription,
             weatherGenieTitle,
             weatherGenieLink
-          )}
+          )} */}
         </div>
       </div>
     </div>

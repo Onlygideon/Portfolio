@@ -30,12 +30,12 @@ const onamydeTitle = `Onamyde Nigeria Limited | Remote`;
 const hngTitle = `HNG | Remote`;
 const zuriTitle = `Zuri Team | Remote`;
 
-const mustardDescription = `Web Developer`;
-const onamydeDescription = `UI Designer`;
+const mustardDescription = `Back-End Software Engineer`;
+const onamydeDescription = `Back-End Web Developer`;
 const hngDescription = `Front-end Web Developer`;
 const zuriDescription = `Back-end Web Developer`;
 
-const mustardDate = `February 2022 - Present`;
+const mustardDate = `February 2022 - February 2023`;
 const onamydeDate = `August 2020 - January 2022`;
 const hngDate = `July 2021 - November 2021`;
 const zuriDate = `March 2021 - September 2021`;
@@ -85,7 +85,7 @@ const Experience = () => {
             onamydeTitle
           )}
 
-          {myExperience(hngThumbnail, hngDescription, hngDate, hngTitle)}
+          {/* {myExperience(hngThumbnail, hngDescription, hngDate, hngTitle)} */}
 
           {myExperience(zuriThumbnail, zuriDescription, zuriDate, zuriTitle)}
         </motion.div>

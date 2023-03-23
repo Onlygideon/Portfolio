@@ -42,7 +42,7 @@ const About = () => {
 
         <motion.div animate={anime} className={classes.text}>
           <p>
-            Hey! My name is Gideon STEPHEN and i'm a Software Developer that
+            Hey! My name is Gideon STEPHEN and i'm a Software Engineer that
             enjoys building well Interactive web environment.
             <p>
               I hold a bachelor's degree in Human Anatomy (Second Class Upper)

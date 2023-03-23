@@ -17,24 +17,24 @@ const uiDesignSkills = <ul>
 
 const backendSkills = <ul>
     <li style={ listTitleStyle }>BACKEND</li>
-    <li>TypeScript - Express.js - Node.js  MongoDB</li>
-    <li>MySQL - Sequelize - Mongoose</li>
-    <li>Firebase</li>
+    <li>JavaScript - TypeScript - Express.js - Node.js</li>
+    <li>Java - MongoDB - Mongoose</li>
+    <li>MySQL - Sequelize - Redis</li>
+    <li>Postgrsql - TypeOrm - Mocha</li>
+    <li>Chai - Docker</li>
 </ul>
 
 const frontendSkills = <ul>
     <li style={ listTitleStyle }>FRONTEND</li>
     <li>Html - Css - Scss - JavaScript</li>
-    <li>ReactJs - Redux - Redux Toolkit</li>
-    <li>Next.js - TypeScript - Tailwind Css</li>
-    <li>Ant Design - styled-components</li>
-    <li> Pixi.js - Context API</li>
+    <li>ReactJs - TypeScript</li>
+    <li>styled-components - Tailwind Css</li>
 </ul>
 
 const otherSkills = <ul>
     <li style={ listTitleStyle }>OTHER</li>
     <li>Git - Postman - GitHub</li>
-    <li>Netlify - Heroku</li>
+    <li>Netlify - Heroku - Sonarqube</li>
 </ul>
 
 const totalSkills = [uiDesignSkills, frontendSkills, backendSkills, otherSkills]

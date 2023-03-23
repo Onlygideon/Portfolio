@@ -11,7 +11,7 @@ const Home = () => {
       <div className={classes.container}>
         <h1 className={classes.hello}>Hi, </h1>
         <h1 className={classes.name}>I'm Gideon STEPHEN</h1>
-        <p>Software Developer & UI Enthusiast</p>
+        <p>Software Engineer</p>
       </div>
 
       <img className={classes.image} src={welcome} alt="welcome"></img>
