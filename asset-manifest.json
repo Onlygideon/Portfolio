@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b6ba70b8.chunk.css",
-    "main.js": "/Portfolio/static/js/main.b6ac2c1b.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.b6ac2c1b.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.8cea646b.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.8cea646b.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.17848bed.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.17848bed.js.map",
     "static/js/2.9b82cdd2.chunk.js": "/Portfolio/static/js/2.9b82cdd2.chunk.js",
@@ -13,11 +13,12 @@
     "static/media/ElegantEssence.00c9c154.jpg": "/Portfolio/static/media/ElegantEssence.00c9c154.jpg",
     "static/media/EyeHut Login Page.b95acf9e.jpg": "/Portfolio/static/media/EyeHut Login Page.b95acf9e.jpg",
     "static/media/EyeHut.fdb29c48.jpg": "/Portfolio/static/media/EyeHut.fdb29c48.jpg",
-    "static/media/GideonSTEPHENresume.bed89f43.pdf": "/Portfolio/static/media/GideonSTEPHENresume.bed89f43.pdf",
+    "static/media/GideonSTEPHENresume.81402db6.pdf": "/Portfolio/static/media/GideonSTEPHENresume.81402db6.pdf",
     "static/media/Home & Hearth Realty.7e4efe68.jpg": "/Portfolio/static/media/Home & Hearth Realty.7e4efe68.jpg",
     "static/media/Smart Bite.e082397d.jpg": "/Portfolio/static/media/Smart Bite.e082397d.jpg",
     "static/media/a-sync.14cce711.jpg": "/Portfolio/static/media/a-sync.14cce711.jpg",
     "static/media/agromart.9d320fa2.jpg": "/Portfolio/static/media/agromart.9d320fa2.jpg",
+    "static/media/ark.ea7543cd.PNG": "/Portfolio/static/media/ark.ea7543cd.PNG",
     "static/media/booklify.068dbe6f.PNG": "/Portfolio/static/media/booklify.068dbe6f.PNG",
     "static/media/code-development-1.9fccaa90.svg": "/Portfolio/static/media/code-development-1.9fccaa90.svg",
     "static/media/code-thinking.91dbc0c7.svg": "/Portfolio/static/media/code-thinking.91dbc0c7.svg",
@@ -27,6 +28,7 @@
     "static/media/fluxy.a4097fa6.jpg": "/Portfolio/static/media/fluxy.a4097fa6.jpg",
     "static/media/griim.92f6a641.PNG": "/Portfolio/static/media/griim.92f6a641.PNG",
     "static/media/hng.43d816c7.jpg": "/Portfolio/static/media/hng.43d816c7.jpg",
+    "static/media/hoax.9303488b.PNG": "/Portfolio/static/media/hoax.9303488b.PNG",
     "static/media/lyricslab.84bf6ac0.jpg": "/Portfolio/static/media/lyricslab.84bf6ac0.jpg",
     "static/media/mustard.efd55fcb.png": "/Portfolio/static/media/mustard.efd55fcb.png",
     "static/media/oasis.fa650c1d.PNG": "/Portfolio/static/media/oasis.fa650c1d.PNG",
@@ -43,6 +45,6 @@
     "static/js/runtime-main.17848bed.js",
     "static/js/2.9b82cdd2.chunk.js",
     "static/css/main.b6ba70b8.chunk.css",
-    "static/js/main.b6ac2c1b.chunk.js"
+    "static/js/main.8cea646b.chunk.js"
   ]
 }
